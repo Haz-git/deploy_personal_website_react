@@ -120,7 +120,7 @@
     transform: scale(1.1);
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 900px) {
 
     .master-wrapper {
         padding-left: 20px;
